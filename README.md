@@ -37,7 +37,4 @@
 
 <ul>
     <li>HTML5, CSS3, JavaScript</li>
-    <li>React.js para uma experiência de usuário dinâmica</li>
-    <li>Node.js para o backend</li>
-    <li>Banco de dados MongoDB para armazenamento eficiente de dados</li>
 </ul>
