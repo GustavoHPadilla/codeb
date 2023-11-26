@@ -17,19 +17,6 @@
     <li><strong>Contato e Colaboração:</strong> Fique em contato conosco facilmente e explore oportunidades de colaboração para impulsionar sua visão digital.</li>
 </ul>
 
-<h2>Como Contribuir</h2>
-
-<p>Valorizamos a colaboração e o aprimoramento contínuo. Se você está interessado em contribuir para o desenvolvimento do nosso website, siga estas etapas:</p>
-
-<ol>
-    <li>Faça um fork do repositório.</li>
-    <li>Crie uma branch para suas alterações (<code>git checkout -b feature/nova-feature</code>).</li>
-    <li>Faça as alterações desejadas e commit (<code>git commit -m 'Adicionando nova feature'</code>).</li>
-    <li>Faça push para a branch (<code>git push origin feature/nova-feature</code>).</li>
-    <li>Abra um pull request para revisão.</li>
-</ol>
-
-<p>Agradecemos antecipadamente por contribuir para a Code&B!</p>
 
 <h2>Tecnologias Utilizadas</h2>
 
